@@ -7,5 +7,11 @@
 * [Studenfy for Android](https://play.google.com/store/apps/details?id=com.studenfy.app)
 * [Studenfy for iOS](https://apps.apple.com/us/app/studenfy/id1574693820)
 
-## Contact us
+## Follow us
+* [VK](https://vk.com/studenfy)
+* [Instagram](https://instagram.com/studenfy)
+* [Telegram](https://t.me/studenfy)
+* [Twitter](https://twitter.com/studenfy)
+
+## Contacts
 * [partners@studenfy.com](mailto:partners@studenfy.com)
