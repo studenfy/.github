@@ -1,7 +1,7 @@
-<img src="https://sun9-36.userapi.com/uDPtsIZ8RklsCjoy_Mg12ECblLzUO_cVJzPpxA/pnGgmCgTjNg.jpg"></img>
+<img src="https://cdn.studenfy.com/cover2.jpg"></img>
 
 # Studenfy
-**Studenfy** is a superapp for students, based in Russia. We work for make pretty good products for students and growing education infrastructure in our country.
+**Studenfy** is a super-app for students. We strive to provide the best products for students and to develop the educational infrastructure.
 
 ## Our products
 * [Studenfy for Android](https://play.google.com/store/apps/details?id=com.studenfy.app)
@@ -12,6 +12,3 @@
 * [Instagram](https://instagram.com/studenfy)
 * [Telegram](https://t.me/studenfy)
 * [Twitter](https://twitter.com/studenfy)
-
-## Contacts
-* [partners@studenfy.com](mailto:partners@studenfy.com)
