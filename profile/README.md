@@ -1,14 +1,14 @@
 <img src="https://cdn.studenfy.com/cover2.jpg"></img>
 
 # Studenfy
-**Studenfy** is a super-app for students. We strive to provide the best products for students and to develop the educational infrastructure.
+**Studenfy** — это платформа для университетов. Мы стремимся создавать лучшие продукты для студентов и сотрудников университетов, а также разрабатываем образовательную инфраструктуру.
 
-## Our products
-* [Studenfy for Android](https://play.google.com/store/apps/details?id=com.studenfy.app)
-* [Studenfy for iOS](https://apps.apple.com/us/app/studenfy/id1574693820)
-
-## Follow us
+## Следите за нами
 * [VK](https://vk.com/studenfy)
 * [Instagram](https://instagram.com/studenfy)
 * [Telegram](https://t.me/studenfy)
 * [Twitter](https://twitter.com/studenfy)
+
+## Скачать приложение
+* [Studenfy в App Store](https://apps.apple.com/us/app/studenfy/id1574693820)
+* [Studenfy в Google Play](https://play.google.com/store/apps/details?id=com.studenfy.app)
